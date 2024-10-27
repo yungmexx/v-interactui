@@ -32,11 +32,11 @@
 
 # GITHUB LINK
 
-> [GITHUB LINK](https://discord.gg/dKG93Tt9AQ)
+> [GITHUB LINK](https://github.com/yungmexx/v-interactui)
 
 # TEBEX LINK
 
-> [TEBEX LINK](https://discord.gg/dKG93Tt9AQ)
+> [TEBEX LINK](https://v-scripts-shop.tebex.io/package/6517795)
 
 # DISCORD
 
