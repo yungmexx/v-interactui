@@ -28,6 +28,15 @@
 
 
 
+
+# GITHUB LINK
+
+> [GITHUB LINK](https://github.com/yungmexx/v-interactui)
+
+# TEBEX LINK
+
+> [TEBEX LINK](https://v-scripts-shop.tebex.io/package/6517795)
+
 # DISCORD
 
 > [V-SCRIPTS DISCORD LINK](https://discord.gg/dKG93Tt9AQ)
