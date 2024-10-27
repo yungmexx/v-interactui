@@ -37,11 +37,3 @@
 # DISCORD
 
 > [V-SCRIPTS DISCORD LINK](https://discord.gg/dKG93Tt9AQ)
-
-|                                         |                                |
-|-------------------------------------|----------------------------|
-| Code is accessible       | Yes                 |
-| Subscription-based      | No                 |
-| Lines (approximately)  | 223  |
-| Requirements                | None|
-| Support                           | Yes                 |
