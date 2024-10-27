@@ -26,13 +26,7 @@
 > 
 > 6) Be sure to add `exports['v-interact']:Hide()` for when you want the ui to disappear like when button pressed or when not in range
 
-# GITHUB LINK
 
-> [V-SCRIPTS DISCORD LINK](https://discord.gg/dKG93Tt9AQ)
-
-# TEBEX LINK
-
-> [V-SCRIPTS DISCORD LINK](https://discord.gg/dKG93Tt9AQ)
 
 # DISCORD
 
