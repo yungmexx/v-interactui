@@ -32,11 +32,11 @@
 
 # GITHUB LINK
 
-> [V-SCRIPTS DISCORD LINK](https://discord.gg/dKG93Tt9AQ)
+> [GITHUB LINK](https://discord.gg/dKG93Tt9AQ)
 
 # TEBEX LINK
 
-> [V-SCRIPTS DISCORD LINK](https://discord.gg/dKG93Tt9AQ)
+> [TEBEX LINK](https://discord.gg/dKG93Tt9AQ)
 
 # DISCORD
 
