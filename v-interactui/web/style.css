@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+body {
+    display: none;
+}
+
+.textui {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    position: absolute;
+    right: 20px;
+    bottom: 50%;
+    transform: translateY(50%);
+    font-size: 20px;
+}
+
+.top-row {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 8px;
+}
+
+.title {
+    background-color: transparent;
+    padding: 5px 10px;
+    border-radius: 2px;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    text-align: center; /* Center text within the .title container */
+    width: 100%; /* Make the title span the full width of its container */
+}
+
+.input {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+}
+
+.input-show {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+    border: 2px solid white;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.input-effect {
+    position: absolute;
+    right: 15px;
+    animation-name: click;
+    animation-duration: 0.5s;
+    color: rgb(0, 0, 0);
+    display: none;
+}
+
+.bar {
+    height: 5px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.bottom-row {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+.description {
+    padding: 5px 10px;
+    border-radius: 2px;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    display: flex;
+    justify-content: center; /* Center content inside the flex container */
+    align-items: center;
+    text-align: center; /* Center text within the container */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    width: 100%; /* Make sure it spans the entire parent container */
+}
+@keyframes click {
+    from { transform: scale(1); opacity: 1; }
+    to { transform: scale(2.5); opacity: 0; }
+}
